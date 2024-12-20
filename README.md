@@ -2,7 +2,7 @@
 
 # 🛠️ Multi-AI-Apps-Repository
 
-Welcome to the **Multi-AI-Apps-Repository**! This repository contains various AI-driven projects and applications, including document processing, stock analysis, voicebots, and more.
+Welcome to the **Multi-AI-Apps-Repository**! My weekend work of last two weeks. This repository contains various AI-driven projects and applications, including document processing, stock analysis, voicebots, and more.
 
 Each project is contained within its own folder and serves a unique purpose in the AI, NLP, and automation space.
 
