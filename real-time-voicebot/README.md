@@ -29,3 +29,7 @@ python app.py
 Contributions are welcome! Please fork the repository and submit a pull request with your improvements.
 
 
+---
+![Alt Text](./resources/image.png)
+
+---

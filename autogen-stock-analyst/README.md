@@ -21,3 +21,8 @@ This project leverages Microsoft's AutoGen to build an advanced Coding and Stock
 ## Contribution
 
 Contributions are welcome! Please fork the repository and submit a pull request with your improvements.
+
+---
+![Alt Text](./resources/image.png)
+
+---
