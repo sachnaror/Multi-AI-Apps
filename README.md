@@ -12,14 +12,14 @@ Each project is contained within its own folder and serves a unique purpose in t
 
 | **App Name**              | **Latest Commit**                                      | **Description**                                           |
 |---------------------------|--------------------------------------------------------|-----------------------------------------------------------|
-| `LaTeX-OCR-with-Llama`    | Update README.md (2 weeks ago)                        | Extract LaTeX content from documents using Llama-based OCR. |
-| `ai_news_generator`       | Create README.md (last week)                          | Generate AI-curated news summaries using NLP techniques. |
-| `autogen-stock-analyst`   | Update README.md with correct package (last month)    | An AI-powered stock market analysis and report generator. |
-| `content_planner_flow`    | Update README.md (yesterday)                          | A tool for automating and planning content creation workflows. |
-| `document-chat-rag`       | Added open in studio button (2 weeks ago)             | RAG-based document chatbot for querying and analysis.   |
+| `LaTeX-OCR-with-Llama`    | Update README.md                         | Extract LaTeX content from documents using Llama-based OCR. |
+| `ai_news_generator`       | Create README.md                           | Generate AI-curated news summaries using NLP techniques. |
+| `autogen-stock-analyst`   | Update README.md with correct package    | An AI-powered stock market analysis and report generator. |
+| `content_planner_flow`    | Update README.md                           | A tool for automating and planning content creation workflows. |
+| `document-chat-rag`       | Added open in studio button              | RAG-based document chatbot for querying and analysis.   |
 | `llama-ocr`               | Create README.md (3 weeks ago)                        | OCR engine powered by Llama for text extraction.         |
-| `multi-modal-rag`         | Adding tutorial for multimodal prompting (3 weeks ago)| Implements multimodal RAG for combining text and image prompts. |
-| `openai-swarm-ollama`     | Updated demo notebook for open-ai swarm (2 months ago)| Demo showcasing OpenAI swarm with Ollama integration.    |
+| `multi-modal-rag`         | Adding tutorial for multimodal prompting | Implements multimodal RAG for combining text and image prompts. |
+| `openai-swarm-ollama`     | Updated demo notebook for open-ai swarm | Demo showcasing OpenAI swarm with Ollama integration.    |
 | `real-time-voicebot`      | Initial implementation                                | A real-time AI-driven voicebot for live interactions.   |
 
 ---
