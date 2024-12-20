@@ -76,18 +76,13 @@ Contributions are welcome! To contribute:
    ```
 5. Open a Pull Request.
 
----
-
-## 📝 **License**
-
-This repository is licensed under the MIT License. See the [LICENSE](./LICENSE) file for more details.
 
 ---
 
 ## 📬 **Contact**
 
 For questions or support, reach out to:
-- **Email**: your-email@example.com
+- **Email**: schnaror@gmail.com
 - **GitHub**: [Your GitHub Profile](https://github.com/sachnaror)
 
 ---
