@@ -17,7 +17,7 @@ Each project is contained within its own folder and serves a unique purpose in t
 | `autogen-stock-analyst`   | Update README.md with correct package    | An AI-powered stock market analysis and report generator. |
 | `content_planner_flow`    | Update README.md                           | A tool for automating and planning content creation workflows. |
 | `document-chat-rag`       | Added open in studio button              | RAG-based document chatbot for querying and analysis.   |
-| `llama-ocr`               | Create README.md (3 weeks ago)                        | OCR engine powered by Llama for text extraction.         |
+| `llama-ocr`               | Create README.md                         | OCR engine powered by Llama for text extraction.         |
 | `multi-modal-rag`         | Adding tutorial for multimodal prompting | Implements multimodal RAG for combining text and image prompts. |
 | `openai-swarm-ollama`     | Updated demo notebook for open-ai swarm | Demo showcasing OpenAI swarm with Ollama integration.    |
 | `real-time-voicebot`      | Initial implementation                                | A real-time AI-driven voicebot for live interactions.   |
